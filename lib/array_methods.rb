@@ -12,7 +12,7 @@ end
 
 def using_reverse(array)
   new_array = array.reverse
-
+  new_array
 end
 
 def using_first(array)
