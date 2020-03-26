@@ -3,7 +3,7 @@ def using_include(array, element)
     true
   else
     false
-  end 
+  end
 end
 
 def using_sort(array)
